@@ -116,16 +116,33 @@ Ubuntu ransomware detection system using behavioral process analysis with Decisi
 <img src="./assets/github_signal.svg" width="100%" alt="GitHub signal"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vimalrootben&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2a2a&icon_color=ff2a2a&text_color=d7d7d7&ring_color=ff2a2a" alt="Vimal GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalrootben&layout=compact&hide_border=true&bg_color=00000000&title_color=ff2a2a&text_color=d7d7d7" alt="Top languages"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=vimalrootben&show_icons=true&hide_border=true&bg_color=050608&title_color=ff2a2a&icon_color=ff2a2a&text_color=d7d7d7&ring_color=ff2a2a"
+    alt="Vimal GitHub Stats"
+  />
+
+  <img
+    width="37%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalrootben&layout=compact&hide_border=true&bg_color=050608&title_color=ff2a2a&text_color=d7d7d7"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vimalrootben&hide_border=true&background=00000000&ring=FF2A2A&fire=FF2A2A&currStreakLabel=FF2A2A&sideLabels=D7D7D7&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+  <img
+    width="60%"
+    src="https://streak-stats.demolab.com?user=vimalrootben&hide_border=true&background=050608&ring=FF2A2A&fire=FF2A2A&currStreakLabel=FF2A2A&sideLabels=D7D7D7&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalrootben&bg_color=050608&color=d7d7d7&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution graph"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vimalrootben&bg_color=050608&color=d7d7d7&line=ff2a2a&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 <img src="./assets/contact_node.svg" width="100%" alt="Contact node"/>
