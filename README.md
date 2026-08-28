@@ -123,17 +123,17 @@ Python Flask Scikit-learn psutil Watchdog NumPy
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="./gojo-avatar.jpg" width="220" alt="Gojo avatar">
+<img src="./gojo-mode.png" width="220" alt="Gojo avatar">
 
 </td>
 <td width="65%" valign="middle">
 
 <h2>"Throughout heaven and earth, i alone am the honored one"</h2>
+                                    <h3>Satoru Gojo</h3>
 
-                                         ## satoru Gojo
+                                       
 
 Mode: Always learning 
-Focus: Build → Secure → Improve → Repeat
 
 </td>
 </tr>
