@@ -41,7 +41,7 @@ I enjoy building projects around endpoint security, Zero Trust, full-stack devel
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./gojo-about.jpg" width="260" alt="Gojo themed visual">
+<img src="./gojo-about.png" width="260" alt="Gojo themed visual">
 
 </td>
 </tr>
