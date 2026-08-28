@@ -148,9 +148,6 @@ Focus: Build → Secure → Improve → Repeat
 </tr>
 </table>
 
-<p align="center">
-  <img src="./gojo-full.jpg" width="340" alt="Gojo full visual">
-</p>
 
 🤝 Connect With Me
 
