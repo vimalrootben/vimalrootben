@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vimalrootben">
-    <img src="https://img.shields.io/badge/GitHub-vimalrootben-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
   <a href="https://linkedin.com/in/vimal-g">
     <img src="https://img.shields.io/badge/LinkedIn-vimal--g-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
