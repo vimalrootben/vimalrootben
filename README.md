@@ -105,8 +105,8 @@ Ubuntu ransomware detection system using behavioral process analysis with Decisi
 
 ```text
 [ PROGRAMMING ]  Python • Java
-[ DATABASE    ]  SQL • MySQL • PostgreSQL • Redis
-[ WEB         ]  HTML • CSS • JavaScript • Flask • FastAPI • React
+[ DATABASE    ]  SQL • MySQL • PostgreSQL 
+[ WEB         ]  HTML • CSS • JavaScript • Flask • FastAPI 
 [ SECURITY    ]  Zero Trust • Endpoint Telemetry • SQL Injection Testing
                  OWASP ZAP • MITRE ATT&CK
 [ TOOLS       ]  Git • GitHub • VS Code • Eclipse • WebSockets • Watchdog • psutil
