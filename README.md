@@ -1,295 +1,159 @@
 <p align="center">
-  <img src="./cyber-banner.png" width="100%" alt="Vimal G cybersecurity profile banner">
-</p>
-
-<h1 align="center"><code>root@vimal:~# whoami</code></h1>
-
-<p align="center">
-  <strong>Final-Year B.E. Cyber Security Student</strong><br>
-  <code>Cybersecurity • Java Full Stack • Zero Trust / EDR • AI / LLM</code>
+  <img src="./assets/banner.svg" width="100%" alt="Vimal G cyber profile banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/vimalrootben">
-    <img src="https://img.shields.io/badge/GitHub-vimalrootben-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://komarev.com/ghpvc/?username=vimalrootben&label=PROFILE%20VIEWS&color=ff2a2a&style=flat-square" alt="profile views"/>
   </a>
-  <a href="https://linkedin.com/in/vimal-g">
-    <img src="https://img.shields.io/badge/LinkedIn-vimal--g-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/vimalcyber">
+    <img src="https://img.shields.io/badge/LINKEDIN-VIMAL_G-111111?style=flat-square&logo=linkedin&logoColor=ff2a2a" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio.darkbenroot.workers.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://vimaltechhub.blogspot.com/?m=1">
-    <img src="https://img.shields.io/badge/Blog-VimalTechHub-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-  </a>
-  <a href="mailto:vimalcyberackerman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://vimaltechhub.blogspot.com">
+    <img src="https://img.shields.io/badge/BLOG-VIMAL_TECH_HUB-111111?style=flat-square&logo=blogger&logoColor=ff2a2a" alt="Blog"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=900&color=FF2A2A&center=true&vCenter=true&width=780&lines=%3E+initializing+identity...;%3E+cybersecurity+%C3%97+software+development;%3E+zero+trust+%7C+endpoint+security+%7C+AI;%3E+build.+break.+defend.+improve." alt="Typing SVG" />
+</p>
 
-## 🟢 `root@vimal:~/profile# cat about.txt`
+<img src="./assets/who_am_i.svg" width="100%" alt="Who am I"/>
+
+```text
+> USER              : VIMAL G
+> HANDLE            : @vimalrootben
+> ROLE              : FINAL-YEAR B.E. CYBER SECURITY STUDENT
+> TRAINING          : JAVA FULL STACK
+> LOCATION          : TAMIL NADU, INDIA
+> CURRENT FOCUS     : ZERO TRUST / EDR / REAL-TIME SECURITY SYSTEMS
+> STATUS            : ONLINE
+```
+
+Final-year Cyber Security student undergoing Java Full Stack training, with working knowledge of **Python** and **SQL**. I build web and security-focused systems using **HTML, CSS, JavaScript, Flask, FastAPI, React, PostgreSQL, Redis, WebSockets, Linux and Git**.
+
+My current work focuses on a **Zero Trust EDR & Continuous Authentication Platform**, including endpoint telemetry, detection rules, risk-based alerting, RBAC, SOC monitoring, network visibility and automated endpoint response.
+
+> **CAUTION //**  
+> Code is never finished. Security is never static.  
+> Build → observe → detect → respond → improve.
+
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
+<img src="./assets/current_operation.svg" width="100%" alt="Current operation"/>
+
+### `ZERO_TRUST_EDR // ACTIVE`
+
+```text
+┌─ OPERATION STATUS ───────────────────────────────────────────────────┐
+│ PROJECT      : Zero Trust EDR & Continuous Authentication Platform │
+│ STATE        : DEVELOPMENT / ACTIVE                                 │
+│ TELEMETRY    : ENDPOINT PROCESS + NETWORK + SECURITY EVENTS         │
+│ DETECTION    : DYNAMIC RULES / POLICIES / RISK-BASED ALERTING       │
+│ RESPONSE     : ISOLATE / LOCK / LOGOUT / QUARANTINE                 │
+│ ACCESS       : RBAC + SOC MONITORING                                │
+│ MAPPING      : MITRE ATT&CK                                         │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**Stack:** `Python` `FastAPI` `React` `PostgreSQL` `Redis` `WebSockets` `MITRE ATT&CK`
+
+**Mission:** Build a real-time endpoint security platform that collects endpoint telemetry, evaluates security risk, generates actionable alerts and supports automated response workflows.
+
+<img src="./assets/project_archive.svg" width="100%" alt="Project archive"/>
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="33%" valign="top">
 
-```bash
-┌──(vimal㉿github)-[~/profile]
-└─$ whoami
+### `01 // ZERO TRUST EDR`
+**Status:** `ONGOING`
 
-Name      : Vimal G
-Role      : Final-Year B.E. Cyber Security Student
-College   : Mahendra Engineering College (Autonomous)
+Real-time endpoint security platform with telemetry collection, risk-based alerting, RBAC, SOC monitoring and automated response workflows.
 
-Focus     : Cybersecurity | Zero Trust | EDR
-Current   : Java Full Stack Training
-Exploring : RAG | LangChain | Gemini 2.5 Flash
-
-Systems   : Windows | Ubuntu | Kali Linux | Qubes OS
-Mindset   : Build > Secure > Test > Improve > Repeat
-Status    : [ ONLINE ]
-```
+`Python` `FastAPI` `React` `PostgreSQL` `Redis`
 
 </td>
-<td width="32%" align="center" valign="middle">
+<td width="33%" valign="top">
 
-<img src="./profile-photo.png" width="230" alt="Vimal G professional portrait">
+### `02 // LEARNSPHERE AI`
+**Status:** `BUILT`
+
+Personalized learning platform using Gemini 2.5 Flash, RAG and LangChain for context-aware conversational tutoring, memory, roadmaps and progress tracking.
+
+`Python` `Flask` `Gemini` `RAG` `LangChain`
+
+</td>
+<td width="33%" valign="top">
+
+### `03 // RANSOMWARE DETECTOR`
+**Status:** `BUILT`
+
+Ubuntu ransomware detection system using behavioral process analysis with Decision Tree and MLP classifiers, filesystem monitoring, entropy analysis and automated quarantine.
+
+`Python` `Flask` `Scikit-learn` `psutil` `Watchdog`
 
 </td>
 </tr>
 </table>
 
-> **Mission:** Build secure, practical systems that combine cybersecurity, software engineering, and AI.
-
----
-
-## 🔵 `root@vimal:~/skills# ./scan-stack.sh`
+<img src="./assets/security_arsenal.svg" width="100%" alt="Security arsenal"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,fastapi,mysql,postgres,git,github,vscode,linux&perline=7" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,fastapi,postgres,mysql,redis,git,github,linux,vscode&perline=8" alt="Tech stack" />
 </p>
-
-```bash
-[+] PROGRAMMING
-    ├── Python
-    ├── Java
-    └── SQL
-
-[+] WEB / BACKEND
-    ├── HTML / CSS / JavaScript
-    ├── React
-    ├── Flask / FastAPI
-    └── WebSockets
-
-[+] DATABASES
-    ├── MySQL
-    ├── PostgreSQL
-    └── Redis
-
-[+] CYBERSECURITY
-    ├── OWASP ZAP
-    ├── SQL Injection Testing
-    ├── Zero Trust Architecture
-    ├── Endpoint Detection & Response
-    └── MITRE ATT&CK
-
-[+] AI / ML
-    ├── RAG
-    ├── LangChain
-    ├── Gemini 2.5 Flash
-    └── Machine Learning
-
-[+] TOOLS / SYSTEMS
-    ├── Git / GitHub
-    ├── VS Code / Eclipse
-    └── Windows / Ubuntu / Kali Linux / Qubes OS
-```
-
----
-
-## 🛡️ `root@vimal:~/projects# ls -la`
-
-### `./zero-trust-edr`
-
-[![Project Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFB000?style=flat-square)](https://github.com/vimalrootben/Zero-Trust-Continuous-Authentication-Framework-for-Insider-Threat-Detection-and-Response)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/vimalrootben/Zero-Trust-Continuous-Authentication-Framework-for-Insider-Threat-Detection-and-Response)
-[![Security](https://img.shields.io/badge/Focus-Zero%20Trust%20%2F%20EDR-00FF88?style=flat-square)](https://github.com/vimalrootben/Zero-Trust-Continuous-Authentication-Framework-for-Insider-Threat-Detection-and-Response)
-
-```bash
-TYPE        : Endpoint Security Platform
-STATUS      : IN DEVELOPMENT
-
-FEATURES    :
-  [+] Endpoint Telemetry
-  [+] Dynamic Detection Rules / Policies
-  [+] Risk-Based Alerting
-  [+] Role-Based Access Control
-  [+] SOC Monitoring
-  [+] Automated Response Workflows
-
-STACK       :
-  Python | FastAPI | React | PostgreSQL
-  Redis | WebSockets | MITRE ATT&CK
-```
-
-➡️ [**View repository**](https://github.com/vimalrootben/Zero-Trust-Continuous-Authentication-Framework-for-Insider-Threat-Detection-and-Response)
-
----
-
-### `./learn-sphere-ai`
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/vimalrootben/LearnSphere)
-[![AI](https://img.shields.io/badge/AI-RAG%20%2F%20LangChain-8A2BE2?style=flat-square)](https://github.com/vimalrootben/LearnSphere)
-
-```bash
-TYPE        : AI Personalized Learning Platform
-
-AI          :
-  Gemini 2.5 Flash | RAG | LangChain
-
-FEATURES    :
-  [+] Context-Aware Tutoring
-  [+] Conversation Memory
-  [+] Learning Roadmaps
-  [+] Progress Tracking
-
-STACK       :
-  Python | Flask | HTML | CSS | JavaScript
-```
-
-➡️ [**View repository**](https://github.com/vimalrootben/LearnSphere)
-
----
-
-### `./ransomware-detection`
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/vimalrootben/Ransomware-Detection-System-)
-[![ML](https://img.shields.io/badge/ML-Decision%20Tree%20%2B%20MLP-00BFFF?style=flat-square)](https://github.com/vimalrootben/Ransomware-Detection-System-)
-
-```bash
-TYPE        : ML-Based Ransomware Detection
-
-MODELS      :
-  Decision Tree | MLP
-
-FEATURES    :
-  [+] Behavioral Analysis
-  [+] File-System Monitoring
-  [+] Entropy Analysis
-  [+] Automated Quarantine
-
-STACK       :
-  Python | Flask | Scikit-learn
-  psutil | Watchdog | NumPy
-```
-
-➡️ [**View repository**](https://github.com/vimalrootben/Ransomware-Detection-System-)
-
----
-
-## 🟣 `root@vimal:~/security# cat focus.conf`
-
-```ini
-[security_focus]
-zero_trust = true
-endpoint_security = true
-threat_detection = true
-secure_coding = true
-web_security = true
-continuous_learning = true
-
-[learning_path]
-java_full_stack = active
-rag_langchain = active
-mitre_attack = active
-soc_edr = active
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zero%20Trust-00FF88?style=for-the-badge&logo=shield&logoColor=black" alt="Zero Trust">
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP">
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-ED1C24?style=for-the-badge&logoColor=white" alt="MITRE ATT&CK">
-  <img src="https://img.shields.io/badge/EDR-Endpoint%20Security-8A2BE2?style=for-the-badge" alt="EDR">
-</p>
-
----
-
-## 🟡 `root@vimal:~/github# git status`
-
-<p align="center">
-  <a href="https://github.com/vimalrootben?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-  </a>
-  <a href="https://github.com/vimalrootben?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-View%20Profile-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars">
-  </a>
-</p>
-
-```bash
-$ git status
-
-On branch main
-Profile    : github.com/vimalrootben
-Projects   : Security + Full Stack + AI
-Status     : Building...
-Learning   : Continuous
-```
-
----
-
-## 🟠 `root@vimal:~/achievements# cat learning.log`
 
 ```text
-[✓] OWASP ZAP for Pentesting & Bug Bounties
-[✓] SQL Injection practical learning
-[✓] CTF workshop participation
-[✓] AI entrepreneurship workshop
-[✓] Learnathon participation
-
-[>] Currently:
-    Java Full Stack
-    Zero Trust / EDR
-    RAG / LangChain
+[ PROGRAMMING ]  Python • Java
+[ DATABASE    ]  SQL • MySQL • PostgreSQL • Redis
+[ WEB         ]  HTML • CSS • JavaScript • Flask • FastAPI • React
+[ SECURITY    ]  Zero Trust • Endpoint Telemetry • SQL Injection Testing
+                 OWASP ZAP • MITRE ATT&CK
+[ TOOLS       ]  Git • GitHub • VS Code • Eclipse • WebSockets • Watchdog • psutil
+[ SYSTEMS     ]  Ubuntu • Kali Linux • Qubes OS • Windows
 ```
 
----
-
-## 🟢 `root@vimal:~/contact# cat social.conf`
-
-```bash
-GITHUB    = github.com/vimalrootben
-LINKEDIN  = linkedin.com/in/vimal-g
-PORTFOLIO = portfolio.darkbenroot.workers.dev
-BLOG      = vimaltechhub.blogspot.com
-EMAIL     = vimalcyberackerman@gmail.com
-```
+<img src="./assets/github_signal.svg" width="100%" alt="GitHub signal"/>
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vimalrootben&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2a2a&icon_color=ff2a2a&text_color=d7d7d7&ring_color=ff2a2a" alt="Vimal GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalrootben&layout=compact&hide_border=true&bg_color=00000000&title_color=ff2a2a&text_color=d7d7d7" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vimalrootben&hide_border=true&background=00000000&ring=FF2A2A&fire=FF2A2A&currStreakLabel=FF2A2A&sideLabels=D7D7D7&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalrootben&bg_color=050608&color=d7d7d7&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution graph"/>
+</p>
+
+<img src="./assets/contact_node.svg" width="100%" alt="Contact node"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vimalcyber">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=ff2a2a"/>
+  </a>
   <a href="https://github.com/vimalrootben">
-    <img src="https://img.shields.io/badge/GitHub-vimalrootben-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=ff2a2a"/>
   </a>
-  <a href="https://linkedin.com/in/vimal-g">
-    <img src="https://img.shields.io/badge/LinkedIn-vimal--g-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://portfolio.darkbenroot.workers.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Open-8A2BE2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://vimaltechhub.blogspot.com/?m=1">
-    <img src="https://img.shields.io/badge/Blog-VimalTechHub-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-  </a>
-  <a href="mailto:vimalcyberackerman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://vimaltechhub.blogspot.com">
+    <img src="https://img.shields.io/badge/Blog-READ-111111?style=for-the-badge&logo=blogger&logoColor=ff2a2a"/>
   </a>
 </p>
 
----
-
-```bash
-root@vimal:~# echo "Building secure systems. Protecting data. Exploring AI. Learning every day."
+```text
+> SCAN COMPLETE
+> IDENTITY       : VIMAL G
+> SIGNAL         : STABLE
+> CURRENT MODE   : LEARN / BUILD / SECURE
+> NEXT OBJECTIVE : SHIP BETTER SYSTEMS
 ```
 
 <p align="center">
-  <strong>⚡ BUILD • SECURE • TEST • LEARN • REPEAT ⚡</strong>
+  <img src="./assets/divider.svg" width="100%" alt="divider"/>
+</p>
+
+<p align="center">
+  <sub>VIMAL_G // CYBERSECURITY × DEVELOPMENT // SYSTEM ONLINE</sub>
 </p>

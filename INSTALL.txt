@@ -1,0 +1,21 @@
+VIMAL G — GitHub Godmode Profile
+
+FILES
+- README.md
+- assets/banner.svg
+- assets/who_am_i.svg
+- assets/current_operation.svg
+- assets/project_archive.svg
+- assets/security_arsenal.svg
+- assets/github_signal.svg
+- assets/contact_node.svg
+- assets/divider.svg
+
+INSTALL
+1. Open your GitHub profile repository: vimalrootben/vimalrootben
+2. Put README.md in the repository root.
+3. Upload the entire assets/ folder without changing the folder name.
+4. Commit and push.
+5. Open https://github.com/vimalrootben
+
+The external stats widgets need internet access when GitHub renders the profile.
