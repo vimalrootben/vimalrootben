@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gojo-banner.jpg" width="100%" alt="Gojo themed cybersecurity banner">
+  <img src="./gojo-banner.png" width="100%" alt="Gojo themed cybersecurity banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm Vimal G</h1>
