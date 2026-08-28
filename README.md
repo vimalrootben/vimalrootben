@@ -100,7 +100,7 @@ Ubuntu ransomware detection system using behavioral process analysis with Decisi
 <img src="./assets/security_arsenal.svg" width="100%" alt="Security arsenal"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,fastapi,postgres,mysql,redis,git,github,linux,vscode&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,fastapi,postgres,mysql,git,github,linux,vscode&perline=7" alt="Tech stack" />
 </p>
 
 ```text
