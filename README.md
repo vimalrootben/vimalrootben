@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vimalrootben">
-    <img src="https://komarev.com/ghpvc/?username=vimalrootben&label=PROFILE%20VIEWS&color=ff2a2a&style=flat-square" alt="profile views"/>
-  </a>
   <a href="https://www.linkedin.com/in/vimalcyber">
     <img src="https://img.shields.io/badge/LINKEDIN-VIMAL_G-111111?style=flat-square&logo=linkedin&logoColor=ff2a2a" alt="LinkedIn"/>
   </a>
@@ -162,9 +159,6 @@ Ubuntu ransomware detection system using behavioral process analysis with Decisi
 <p align="center">
   <a href="https://www.linkedin.com/in/vimalcyber">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=ff2a2a"/>
-  </a>
-  <a href="https://github.com/vimalrootben">
-    <img src="https://img.shields.io/badge/GitHub-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=ff2a2a"/>
   </a>
   <a href="https://vimaltechhub.blogspot.com">
     <img src="https://img.shields.io/badge/Blog-READ-111111?style=for-the-badge&logo=blogger&logoColor=ff2a2a"/>
