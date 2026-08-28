@@ -113,7 +113,7 @@ Python Flask Scikit-learn psutil Watchdog NumPy
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="./gojo-avatar" width="220" alt="Gojo avatar">
+<img src="./gojo-avatar.png" width="220" alt="Gojo avatar">
 
 </td>
 <td width="65%" valign="middle">
