@@ -106,16 +106,6 @@ Real-time ransomware detection using behavioral analysis, Decision Tree + MLP cl
 
 Python Flask Scikit-learn psutil Watchdog NumPy
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimalrootben&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalrootben&layout=compact&theme=github_dark&hide_border=true" width="41%" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vimalrootben&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub streak">
-</p>
 
 🌌 Gojo Mode
 
@@ -123,7 +113,7 @@ Python Flask Scikit-learn psutil Watchdog NumPy
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="./gojo-mode.png" width="220" alt="Gojo avatar">
+<img src="./gojo-avater.png" width="220" alt="Gojo avatar">
 
 </td>
 <td width="65%" valign="middle">
