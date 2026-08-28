@@ -50,7 +50,7 @@ I enjoy building projects around endpoint security, Zero Trust, full-stack devel
 🛠 Languages • Frameworks • Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,postgres,git,github,vscode,linux&perline=7" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,postgres,git,github,vscode,linux&perline=6" alt="Tech stack icons">
 </p>
 
 <table>
@@ -85,7 +85,7 @@ I enjoy building projects around endpoint security, Zero Trust, full-stack devel
 </table>
 
 🚀 Featured Projects
-
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 🛡️ Zero Trust EDR & Continuous Authentication Platform
 
 Status: IN DEVELOPMENT
@@ -94,17 +94,22 @@ Real-time endpoint security platform with endpoint telemetry, dynamic rules/poli
 
 Python FastAPI React PostgreSQL Redis WebSockets MITRE ATT&CK
 
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 🧠 Learn Sphere AI — Personalized Learning Platform
 
 AI-powered personalized learning platform using Gemini 2.5 Flash, RAG, and LangChain for contextual tutoring, learning roadmaps, conversation memory and progress tracking.
 
 Python Flask Gemini 2.5 Flash RAG LangChain HTML CSS JavaScript
 
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
 🔐 Ransomware Detection System
 
 Real-time ransomware detection using behavioral analysis, Decision Tree + MLP classifiers, file-system monitoring, entropy analysis and automated quarantine.
 
 Python Flask Scikit-learn psutil Watchdog NumPy
+
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 
 🌌 Gojo Mode
@@ -128,6 +133,8 @@ Mode: Always learning
 </td>
 </tr>
 </table>
+
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 
 🤝 Connect With Me
