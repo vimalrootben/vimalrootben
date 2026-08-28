@@ -1,16 +1,171 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/gojo-banner.jpg" width="100%" alt="Gojo-themed cybersecurity banner">
+</p>
 
-<!--
-**vimalrootben/vimalrootben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Vimal G</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Final-Year B.E. Cyber Security Student</b><br>
+  Cybersecurity • Java Full Stack • AI / LLM
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/vimalrootben">
+    <img src="https://img.shields.io/badge/GitHub-vimalrootben-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/vimal-g">
+    <img src="https://img.shields.io/badge/LinkedIn-vimal--g-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:vimalcyberackerman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🔗 About Me
+
+<table>
+<tr>
+<td width="64%" valign="top">
+
+Hey! I'm **Vimal G**, a final-year **B.E. Cyber Security** student at **Mahendra Engineering College (Autonomous)**.
+
+I enjoy building projects around **endpoint security, Zero Trust, full-stack development, and AI/LLM applications**.
+
+- 🔐 Focus: Cybersecurity, Zero Trust, EDR
+- 💻 Current: Java Full Stack training
+- 🤖 Exploring: RAG, LangChain, Gemini 2.5 Flash
+- 🐧 Systems: Windows, Ubuntu, Kali Linux, Qubes OS
+- 🌱 Goal: Build practical security products and keep learning
+
+</td>
+<td width="36%" align="center" valign="middle">
+  <img src="./assets/gojo-about.jpg" width="280" alt="Gojo themed visual">
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Languages • Frameworks • Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,fastapi,mysql,postgres,git,github,vscode,linux&perline=7" alt="Tech stack icons">
+</p>
+
+<table>
+<tr>
+<td><b>Programming</b></td>
+<td>Python • Java • SQL</td>
+</tr>
+<tr>
+<td><b>Web</b></td>
+<td>HTML • CSS • JavaScript • React</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Flask • FastAPI • WebSockets</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>MySQL • PostgreSQL • Redis</td>
+</tr>
+<tr>
+<td><b>Cybersecurity</b></td>
+<td>OWASP ZAP • SQL Injection Testing • Zero Trust • MITRE ATT&CK</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>RAG • LangChain • Gemini 2.5 Flash • Machine Learning</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Zero Trust EDR & Continuous Authentication Platform
+> **Status:** `IN DEVELOPMENT`
+
+Real-time endpoint security platform with endpoint telemetry, dynamic rules/policies, risk-based alerting, RBAC, SOC monitoring and automated response workflows.
+
+`Python` `FastAPI` `React` `PostgreSQL` `Redis` `WebSockets` `MITRE ATT&CK`
+
+---
+
+### 🧠 Learn Sphere AI — Personalized Learning Platform
+
+AI-powered personalized learning platform using **Gemini 2.5 Flash**, **RAG**, and **LangChain** for contextual tutoring, learning roadmaps, conversation memory and progress tracking.
+
+`Python` `Flask` `Gemini 2.5 Flash` `RAG` `LangChain` `HTML` `CSS` `JavaScript`
+
+---
+
+### 🔐 Ransomware Detection System
+
+Real-time ransomware detection using behavioral analysis, Decision Tree + MLP classifiers, file-system monitoring, entropy analysis and automated quarantine.
+
+`Python` `Flask` `Scikit-learn` `psutil` `Watchdog` `NumPy`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vimalrootben&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalrootben&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vimalrootben&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalrootben&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph">
+</p>
+
+---
+
+## 🌌 Gojo Mode
+
+<table>
+<tr>
+<td width="35%" align="center">
+  <img src="./assets/gojo-avatar.jpg" width="230" alt="Gojo profile visual">
+</td>
+<td width="65%" valign="middle">
+
+> **"Throughout heaven and earth..."**
+
+I use the Gojo theme here as a visual identity for the profile — dark, focused, minimal, and high-energy — while keeping the actual content centered on cybersecurity, software development, and AI.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/vimalrootben">
+    <img src="https://img.shields.io/badge/GitHub-vimalrootben-181717?style=flat-square&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/vimal-g">
+    <img src="https://img.shields.io/badge/LinkedIn-vimal--g-0A66C2?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:vimalcyberackerman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vimalcyberackerman%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building secure systems. Protecting data. Exploring AI. Learning every day.</b>
+</p>
