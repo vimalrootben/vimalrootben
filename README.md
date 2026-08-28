@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gojo-banner.jpg" width="100%" alt="Gojo-themed cybersecurity banner">
+  <img src="./gojo-about.jpg" width="100%" alt="Gojo-themed cybersecurity banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm Vimal G</h1>
@@ -41,7 +41,7 @@ I enjoy building projects around **endpoint security, Zero Trust, full-stack dev
 
 </td>
 <td width="36%" align="center" valign="middle">
-  <img src="./gojo-about.jpg" width="280" alt="Gojo themed visual">
+  <img src="./gojo-banner.jpg" width="280" alt="Gojo themed visual">
 </td>
 </tr>
 </table>
