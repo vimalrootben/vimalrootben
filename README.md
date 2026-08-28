@@ -128,7 +128,9 @@ Python Flask Scikit-learn psutil Watchdog NumPy
 </td>
 <td width="65%" valign="middle">
 
-“Throughout heaven and earth, i alone am the honored one"
+<h2>"Throughout heaven and earth, i alone am the honored one"</h2>
+
+                                         -satoru Gojo
 
 Mode: Always learning
 Focus: Build → Secure → Improve → Repeat
