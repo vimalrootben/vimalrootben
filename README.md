@@ -130,9 +130,9 @@ Python Flask Scikit-learn psutil Watchdog NumPy
 
 <h2>"Throughout heaven and earth, i alone am the honored one"</h2>
 
-                                         -satoru Gojo
+                                         <h3> -satoru Gojo </h3>
 
-Mode: Always learning
+Mode: Always learning 
 Focus: Build → Secure → Improve → Repeat
 
 </td>
