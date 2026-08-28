@@ -2,155 +2,132 @@
   <img src="./gojo-banner.png" width="100%" alt="Gojo themed cybersecurity banner">
 </p>
 
-<h1 align="center">👋 Hi, I'm Vimal G</h1>
+<h1 align="center">
+  <code>vimal@github:~$ whoami</code>
+</h1>
 
 <p align="center">
-  <b>Final-Year B.E. Cyber Security Student</b><br>
-  Cybersecurity • Java Full Stack • AI / LLM
+  <code>Final-Year B.E. Cyber Security Student</code><br>
+  <code>Cybersecurity • Java Full Stack • AI / LLM</code>
 </p>
 
 <p align="center">
+  <a href="https://github.com/vimalrootben">
+    <img src="https://img.shields.io/badge/GitHub-vimalrootben-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="https://linkedin.com/in/vimal-g">
     <img src="https://img.shields.io/badge/LinkedIn-vimal--g-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:vimalcyberackerman@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-   <a href="https://vimaltechhub.blogspot.com/?m=1">
-    <img src="https://img.shields.io/badge/blog-vimatechhub-EA4336?style=for-the-badge&logo=blog&logoColor=orange" alt="blog">
+  <a href="https://vimaltechhub.blogspot.com/?m=1">
+    <img src="https://img.shields.io/badge/Blog-VimalTechHub-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
   </a>
 </p>
 
-🔗 About Me
+---
+
+## `< vimal@github:~/about >`
 
 <table>
 <tr>
+
 <td width="62%" valign="top">
 
-Hey! I'm Vimal G, a final-year B.E. Cyber Security student at Mahendra Engineering College (Autonomous).
+<pre>
+vimal@github:~$ whoami
 
-I enjoy building projects around endpoint security, Zero Trust, full-stack development, and AI/LLM applications.
+Name      : Vimal G
 
-🔐 Focus: Cybersecurity, Zero Trust, EDR
+Role      : Final-Year B.E.
+            Cyber Security Student
 
-💻 Current: Java Full Stack training
+College   : Mahendra Engineering College
+            (Autonomous)
 
-🤖 Exploring: RAG, LangChain, Gemini 2.5 Flash
+Focus     : Cybersecurity
+            Zero Trust
+            EDR
 
-🐧 Systems: Windows, Ubuntu, Kali Linux, Qubes OS
+Current   : Java Full Stack Training
 
-🌱 Goal: Build practical security products and keep learning
+Exploring : RAG
+            LangChain
+            Gemini 2.5 Flash
+
+Systems   : Windows
+            Ubuntu
+            Kali Linux
+            Qubes OS
+
+Goal      : Build practical security
+            products and keep learning
+</pre>
 
 </td>
+
 <td width="38%" align="center" valign="middle">
 
-<img src="./gojo-about.png" width="260" alt="Gojo themed visual">
+<img src="./gojo-about.png" width="270" alt="Gojo themed about visual">
 
 </td>
+
 </tr>
 </table>
 
-🛠 Languages • Frameworks • Tools
+---
+
+## `< vimal@github:~/tech-stack >`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,postgres,git,github,vscode,linux&perline=6" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,mysql,postgres,git,github,vscode,linux&perline=7" alt="Tech stack icons">
 </p>
 
-<table>
-<tr>
-<td><b>Programming</b></td>
-<td>Python • Java • SQL</td>
-</tr>
-<tr>
-<td><b>Web</b></td>
-<td>HTML • CSS • JavaScript • React</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>Flask • FastAPI • WebSockets</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>MySQL • PostgreSQL </td>
-</tr>
-<tr>
-<td><b>Cybersecurity</b></td>
-<td>OWASP ZAP • SQL Injection Testing • Zero Trust • MITRE ATT&CK</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>RAG • LangChain • Gemini 2.5 Flash • Machine Learning</td>
-</tr>
-<tr>
-<td><b>Tools / OS</b></td>
-<td>Git • GitHub • VS Code • Eclipse • Windows • Ubuntu • Kali Linux • Qubes OS</td>
-</tr>
-</table>
+```text
+vimal@github:~/tech-stack$ cat skills.conf
 
-🚀 Featured Projects
-<p>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-🛡️ Zero Trust EDR & Continuous Authentication Platform
+[ Programming ]
+Python        : Active
+Java          : Training
+SQL           : Active
 
-Status: IN DEVELOPMENT
+[ Web ]
+HTML          : Active
+CSS           : Active
+JavaScript    : Active
+React         : Learning
 
-Real-time endpoint security platform with endpoint telemetry, dynamic rules/policies, risk-based alerting, RBAC, SOC monitoring and automated response workflows.
+[ Backend ]
+Flask         : Active
+FastAPI       : Active
+WebSockets    : Active
 
-Python FastAPI React PostgreSQL Redis WebSockets MITRE ATT&CK
+[ Databases ]
+MySQL         : Active
+PostgreSQL    : Active
 
-<p>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-🧠 Learn Sphere AI — Personalized Learning Platform
+[ Cybersecurity ]
+OWASP ZAP             : Active
+SQL Injection Testing : Active
+Zero Trust            : Building
+EDR                   : Building
+MITRE ATT&CK          : Learning
 
-AI-powered personalized learning platform using Gemini 2.5 Flash, RAG, and LangChain for contextual tutoring, learning roadmaps, conversation memory and progress tracking.
+[ AI / ML ]
+RAG               : Active
+LangChain         : Active
+Gemini 2.5 Flash  : Active
+Machine Learning  : Active
 
-Python Flask Gemini 2.5 Flash RAG LangChain HTML CSS JavaScript
+[ Tools ]
+Git
+GitHub
+VS Code
+Eclipse
 
-<p>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-
-🔐 Ransomware Detection System
-
-Real-time ransomware detection using behavioral analysis, Decision Tree + MLP classifiers, file-system monitoring, entropy analysis and automated quarantine.
-
-Python Flask Scikit-learn psutil Watchdog NumPy
-
-<p>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-
-
-🌌 Gojo Mode
-
-<table>
-<tr>
-<td width="35%" align="center" valign="middle">
-
-<img src="./gojo-avaterr.png" width="220" alt="Gojo avatar">
-
-</td>
-<td width="65%" valign="middle">
-
-<h2>"Throughout heaven and earth, i alone am the honored one"</h2>
-                                    <h3>Satoru Gojo</h3>
-
-                                       
-
-Mode: Always learning 
-
-</td>
-</tr>
-</table>
-
-<p>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-
-
-🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vimal-g">
-    <img src="https://img.shields.io/badge/LinkedIn-vimal--g-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:vimalcyberackerman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vimalcyberackerman%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center">
-  <b>Building secure systems. Protecting data. Exploring AI. Learning every day.</b>
-</p>
+[ Operating Systems ]
+Windows
+Ubuntu
+Kali Linux
+Qubes OS
