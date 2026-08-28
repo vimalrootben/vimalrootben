@@ -16,6 +16,9 @@
   <a href="mailto:vimalcyberackerman@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+   <a href="https://vimaltechhub.blogspot.com/?m=1">
+    <img src="https://img.shields.io/badge/blog-Contact-EA4335?style=for-the-badge&logo=blog&logoColor=orange" alt="blog">
+  </a>
 </p>
 
 🔗 About Me
