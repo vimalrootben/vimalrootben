@@ -115,33 +115,45 @@ Ubuntu ransomware detection system using behavioral process analysis with Decisi
 
 <img src="./assets/github_signal.svg" width="100%" alt="GitHub signal"/>
 
-<p align="center">
+<!-- ===================== GITHUB SIGNAL ===================== -->
+
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=vimalrootben&show_icons=true&hide_border=true&bg_color=050608&title_color=ff2a2a&icon_color=ff2a2a&text_color=d7d7d7&ring_color=ff2a2a"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vimalrootben&theme=github_dark"
+    width="100%"
     alt="Vimal GitHub Stats"
   />
+</td>
 
+<td align="center" width="50%">
   <img
-    width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalrootben&layout=compact&hide_border=true&bg_color=050608&title_color=ff2a2a&text_color=d7d7d7"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vimalrootben&theme=github_dark"
+    width="100%"
+    alt="Languages by Repository"
   />
-</p>
+</td>
+
+</tr>
+</table>
+
 
 <p align="center">
   <img
-    width="60%"
-    src="https://streak-stats.demolab.com?user=vimalrootben&hide_border=true&background=050608&ring=FF2A2A&fire=FF2A2A&currStreakLabel=FF2A2A&sideLabels=D7D7D7&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    src="https://streak-stats.demolab.com?user=vimalrootben&hide_border=true&background=0D1117&ring=FF2A2A&fire=FF2A2A&currStreakLabel=FF2A2A&sideLabels=D7D7D7&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="70%"
     alt="GitHub Streak"
   />
 </p>
 
+
 <p align="center">
   <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalrootben&theme=github_dark"
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vimalrootben&bg_color=050608&color=d7d7d7&line=ff2a2a&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Contribution Graph"
+    alt="Vimal GitHub Contribution Details"
   />
 </p>
 
