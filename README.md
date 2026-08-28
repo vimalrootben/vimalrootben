@@ -53,7 +53,7 @@ I enjoy building projects around endpoint security, Zero Trust, full-stack devel
 🛠 Languages • Frameworks • Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,fastapi,mysql,postgres,git,github,vscode,linux&perline=7" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,postgres,git,github,vscode,linux&perline=7" alt="Tech stack icons">
 </p>
 
 <table>
@@ -71,7 +71,7 @@ I enjoy building projects around endpoint security, Zero Trust, full-stack devel
 </tr>
 <tr>
 <td><b>Databases</b></td>
-<td>MySQL • PostgreSQL • Redis</td>
+<td>MySQL • PostgreSQL </td>
 </tr>
 <tr>
 <td><b>Cybersecurity</b></td>
@@ -120,12 +120,6 @@ Python Flask Scikit-learn psutil Watchdog NumPy
   <img src="https://streak-stats.demolab.com?user=vimalrootben&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub streak">
 </p>
 
-📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalrootben&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph">
-</p>
-
 🌌 Gojo Mode
 
 <table>
@@ -152,9 +146,6 @@ Focus: Build → Secure → Improve → Repeat
 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/vimalrootben">
-    <img src="https://img.shields.io/badge/GitHub-vimalrootben-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
   <a href="https://linkedin.com/in/vimal-g">
     <img src="https://img.shields.io/badge/LinkedIn-vimal--g-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
