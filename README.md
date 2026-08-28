@@ -128,9 +128,7 @@ Python Flask Scikit-learn psutil Watchdog NumPy
 </td>
 <td width="65%" valign="middle">
 
-“Throughout heaven and earth…”
-
-This profile uses a Gojo-inspired visual theme while keeping the content focused on cybersecurity, software development, and AI.
+“Throughout heaven and earth, i alone am the honored one"
 
 Mode: Always learning
 Focus: Build → Secure → Improve → Repeat
